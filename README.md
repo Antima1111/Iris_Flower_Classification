@@ -75,7 +75,7 @@ iris_classification.py → Python script for training and prediction
 
 iris.csv → Dataset
 
-iris_model.pkl → Saved trained model (generated after running the script)
+OUTPUT.png → Saved trained model (generated after running the script)
 
 README.md → Project documentation
 
